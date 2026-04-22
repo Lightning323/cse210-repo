@@ -1,5 +1,6 @@
 # cse210-student-template
-This is the starter code for students in CSE 210.
+Hello there, If you are reading this, you are in the wrong place. (Disneyland is a long way from here, sorry.)
+This is my awesome repository, and this is the README file.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
