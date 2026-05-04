@@ -1,4 +1,4 @@
-# cse210-student-template
+# My asesome cse210 repository
 Hello there, If you are reading this, you are in the wrong place. (Disneyland is a long way from here, sorry.)
 This is my awesome repository, and this is the README file.
 
